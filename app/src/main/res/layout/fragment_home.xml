@@ -3,13 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.home.HomeSub2Fragment">
+    tools:context=".ui.home.home_fragments.HomeFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/purple_700"
+        android:background="@color/nav_active"
         android:text="@string/hello_blank_fragment" />
 
 </FrameLayout>
