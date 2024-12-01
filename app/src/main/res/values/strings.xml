@@ -1,0 +1,18 @@
+<resources>
+    <string name="wl_app_name">HelaBojan</string>
+    <string name="wl_short_description">Welcome to Helabojan society</string>
+    <string name="wl_btn_label">Lets Start</string>
+    <string name="wl_version">version</string>
+    <string name="wl_version_no">1.0.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--ActivitySignIn-->
+    <string name="sn_header">Login</string>
+    <string name="sn_ip_username">Username</string>
+    <string name="sn_ip_username_er">* Required</string>
+    <string name="sn_ip_password">Password</string>
+    <string name="sn_ip_password_er">* Required</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+</resources>

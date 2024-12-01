@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xhdpi -->
+<!--conversion from default (factor) => 0.67-->
+<resources>
+    <dimen name="default_padding">11dp</dimen>   <!--16 * 0.67-->
+</resources>

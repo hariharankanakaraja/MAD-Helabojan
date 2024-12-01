@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xxhdpi - base-->
+<resources>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+
+    <!--Welcome Activity-->
+    <dimen name="logo_size">100dp</dimen>
+    <dimen name="logo_txt_size">20sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--Base-->
+    <dimen name="base_header_txt_size">18sp</dimen>
+    <dimen name="base_gap_xs">4dip</dimen>
+    <dimen name="base_gap">8dip</dimen>
+    <dimen name="base_gap_md">12dip</dimen>
+    <dimen name="base_gap_lg">16dip</dimen>
+    <dimen name="base_corner_sm">8dip</dimen>
+    <dimen name="base_corner">16dip</dimen>
+    <dimen name="base_nav_top">4dip</dimen>
+    <dimen name="base_nav_top_sm">2dip</dimen>
+
+    <!--ActivitySignIn-->
+    <dimen name="sn_btn_close_height">36dip</dimen>
+    <dimen name="sn_btn_close_width">36dip</dimen>
+    <dimen name="sn_lb_txt_size_xs">12sp</dimen>
+    <dimen name="sn_lb_txt_size_sm">16sp</dimen>
+    <dimen name="sn_lb_txt_size">18sp</dimen>
+    <dimen name="sn_lb_txt_size_m1">18sp</dimen>
+    <dimen name="sn_lb_txt_size_m">20sp</dimen>
+    <dimen name="sn_lb_txt_size_md">24sp</dimen>
+    <dimen name="sn_lb_txt_size_lg">32sp</dimen>
+
+    <dimen name="btn_min_height">48dip</dimen> <!-- 48  => 48 * 1.85 => 89-->
+</resources>

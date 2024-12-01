@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--xxxhdpi-->
+<!--factor from base 1.33-->
+<resources>
+    <dimen name="default_padding">21dp</dimen>   <!--16 * 1.33-->
+</resources>
