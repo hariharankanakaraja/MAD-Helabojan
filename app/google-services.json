@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650220675599",
+    "project_id": "mad-helabojan",
+    "storage_bucket": "mad-helabojan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650220675599:android:cef7891a25d3de9be6b97a",
+        "android_client_info": {
+          "package_name": "com.nibm.hari.helabojan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPHk45BkGKt3hgbNiTR-yfKcW2p8aFks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
