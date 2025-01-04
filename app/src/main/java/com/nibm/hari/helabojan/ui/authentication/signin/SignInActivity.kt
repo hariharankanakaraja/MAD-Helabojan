@@ -13,6 +13,7 @@ import com.nibm.hari.helabojan.databinding.ActivitySignInBinding
 import com.nibm.hari.helabojan.databinding.ActivityWelcomeBinding
 import com.google.firebase.auth.auth
 import com.google.firebase.Firebase
+import com.nibm.hari.helabojan.ui.home.GPSActivity
 import com.nibm.hari.helabojan.ui.home.HomeActivity
 
 
@@ -56,7 +57,7 @@ class SignInActivity : Activity() {
     }
 
     fun navigateHomeActivity(){
-        val intent = Intent(this, HomeActivity::class.java)
+        val intent = Intent(this, GPSActivity::class.java)
         startActivity(intent)
     }
 
