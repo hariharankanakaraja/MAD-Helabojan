@@ -44,11 +44,11 @@ class SignInActivity : Activity() {
             val email = binding.usernameInp.text.toString().trim()
             val password = binding.passwordInp.text.toString().trim()
 
-
+            navigateHomeActivity()
             if(email.isNotEmpty() && password.isNotEmpty()){
                 //signin in with firebase email auth
 //                signInWithEmail(email, password)
-                addNewUserIntoDb()
+//                addNewUserIntoDb()
             }
 
         }
