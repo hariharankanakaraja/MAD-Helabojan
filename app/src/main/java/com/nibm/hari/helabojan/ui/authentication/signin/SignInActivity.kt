@@ -68,6 +68,7 @@ class SignInActivity : Activity() {
                     age = 1,
                 )
                 db.getUserDao().insertNewUser(user)
+                var users: List<UserEntity> = db.getUserDao().getAllUsers()
                 Handler(Looper.getMainLooper()).post{
                     Toast.makeText(this, "user insert success", Toast.LENGTH_LONG).show()
                 }
